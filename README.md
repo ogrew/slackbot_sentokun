@@ -5,4 +5,5 @@ Slack用bot。Incoming Webhooksを利用している。
 ②定時になるとつぶやく  
 ### 管理
 スプレッドシートの構成は以下の通り。
-（画像を入れる）
+
+![](sentokun.jpg)
